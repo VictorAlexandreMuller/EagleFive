@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/eagle-five',
+  basePath: '/EagleFive-Front',
   supportedLocales: {
   "en-US": ""
 },
