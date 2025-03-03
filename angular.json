@@ -82,6 +82,10 @@
               "buildTarget": "EagleFive:build:production"
             },
             "development": {
+              "outoutPath": {
+                "base": "dist/EagleFive",
+                "browser": ""
+              },
               "buildTarget": "EagleFive:build:development"
             }
           },
@@ -113,9 +117,6 @@
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           }
-        },
-        "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
