@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/EagleFive-Front": {},
+    "/EagleFive-Front/criar-treino": {},
+    "/EagleFive-Front/home-page": {},
+    "/EagleFive-Front/login": {},
+    "/EagleFive-Front/register": {},
+    "/EagleFive-Front/treino": {}
+  }
+}
